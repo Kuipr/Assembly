@@ -1,5 +1,5 @@
 # Breakpoints
-Assembly has four responsive breakpoints.  They can be accessed directly in `SCSS` by calling each variable shown below.
+Assembly has four responsive breakpoints.  They can be accessed directly in `SCSS` by calling each variable as shown below.
 ```scss
 $size-mobile:        480px;
 $size-tablet-small:  768px;
