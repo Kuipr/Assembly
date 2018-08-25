@@ -1,4 +1,5 @@
-# Assembly
+<img src="https://kuipr.com/static/img/projects/Assembly.svg" alt="Assembly Logo" width="470" height="94"/>
+
 A modern front-end development framework for UI-friendly rapid prototyping.
 
 #### Status
