@@ -2,7 +2,8 @@
 A modern front-end development framework for UI-friendly rapid prototyping.
 
 #### Status
-[![Build Status](https://travis-ci.org/Kuipr/assembly.svg?branch=master)](https://travis-ci.org/Kuipr/assembly) 
+[![Build Status](https://travis-ci.org/Kuipr/assembly.svg?branch=master)](https://travis-ci.org/Kuipr/assembly)
+[![Coverage Status](https://coveralls.io/repos/github/Kuipr/assembly/badge.svg?branch=master)](https://coveralls.io/github/Kuipr/assembly?branch=master)
 
 ## Installation
 - Releases coming soon
