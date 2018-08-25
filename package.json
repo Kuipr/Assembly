@@ -1,0 +1,26 @@
+{
+  "name": "assembly-framework",
+  "version": "0.1.0",
+  "description": "A modern front-end development framework for UI-friendly rapid prototyping.",
+  "main": "dist/js/assembly.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kuipr/assembly.git"
+  },
+  "keywords": [
+    "framework",
+    "front-end",
+    "css",
+    "html",
+    "prototype"
+  ],
+  "author": "Mark Adkins <mark@bymark.co> (https://bymark.co)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kuipr/assembly/issues"
+  },
+  "homepage": "https://kuipr.io/assembly/"
+}

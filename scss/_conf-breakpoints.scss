@@ -1,0 +1,6 @@
+// Responsive Breakpoints
+$size-mobile:       480px;
+$size-tablet-small: 768px;
+$size-tablet-large: 991px;
+$size-desktop:      1199px;
+$size-mobile-adjusted: $size-mobile - ($base-h-spacing * 2);
