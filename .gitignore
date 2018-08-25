@@ -75,3 +75,8 @@ typings/
 # IDE Files
 .idea
 *.iml
+.DS_Store
+
+# Generated Files
+/dist/js/prettify.min.js
+/dist/js/sorter.min.js

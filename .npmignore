@@ -72,6 +72,13 @@ typings/
 # Serverless directories
 .serverless
 
+# Git Directories
+.git
+
 # IDE Files
 .idea
 *.iml
+
+# Generated Files
+/dist/js/prettify.min.js
+/dist/js/sorter.min.js
