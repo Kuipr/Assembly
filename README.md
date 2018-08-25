@@ -7,8 +7,9 @@ A modern front-end development framework for UI-friendly rapid prototyping.
 [![Coverage Status](https://coveralls.io/repos/github/Kuipr/assembly/badge.svg?branch=master)](https://coveralls.io/github/Kuipr/assembly?branch=master)
 
 ## Installation
+The easiest way to install Assembly is with `npm`.  We will be adding additional installation options as well as a CDN soon.
 - Install with npm: `npm i assembly-framework`
-- [Download .zip](https://github.com/Kuipr/assembly/archive/master.zip)
+- Manually: [Download .zip](https://github.com/Kuipr/assembly/archive/master.zip)
 - Github releases coming soon
 
 ## Documentation
