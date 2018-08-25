@@ -1,0 +1,13 @@
+/**
+ * Documentation Tree
+ * @Kuipr/assembly
+ *
+ * Doc navigation config for @Kuipr/manifest.
+ */
+
+docs/
++-- index.md
+|-- grid/
+  +-- grid.md
+  +-- containers.md
+  +-- breakpoints.md
