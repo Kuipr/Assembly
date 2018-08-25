@@ -4,7 +4,8 @@
   "description": "A modern front-end development framework for UI-friendly rapid prototyping.",
   "main": "dist/js/assembly.js",
   "scripts": {
-    "test": "mocha --reporter spec"
+    "test": "mocha --reporter spec",
+    "cover": "node_modules/istanbul/lib/cli.js cover node_modules/mocha/bin/_mocha -- -R spec test/*"
   },
   "repository": {
     "type": "git",

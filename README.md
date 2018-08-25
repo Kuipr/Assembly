@@ -1,6 +1,9 @@
 # Assembly
 A modern front-end development framework for UI-friendly rapid prototyping.
 
+#### Status
+[![Build Status](https://travis-ci.org/Kuipr/assembly.svg?branch=master)](https://travis-ci.org/Kuipr/assembly) 
+
 ## Installation
 - Releases coming soon
 - Install with npm: `npm install assembly-framework`
