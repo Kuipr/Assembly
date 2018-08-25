@@ -1,2 +1,2 @@
 # assembly
-A new and modern front-end development framework
+A new, modern, and mobile-first front-end development framework.
