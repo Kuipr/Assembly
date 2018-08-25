@@ -14,7 +14,7 @@ We follow the Semantic Versioning Specification ([SemVer](https://semver.org/)).
 ## Support
 If you encounter any issues please open an [issue](https://github.com/Kuipr/assembly/issues).  For questions, you can get in touch with us at [hello@kuipr.com](mailto:hello@kuipr.com).
 
-#### Creators
+### Creators
 **Mark Adkins**
 - <https://github.com/funkybunch>
 - <https://twitter.com/realmarkadkins>
