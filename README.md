@@ -7,8 +7,12 @@ A modern front-end development framework for UI-friendly rapid prototyping.
 [![Coverage Status](https://coveralls.io/repos/github/Kuipr/assembly/badge.svg?branch=master)](https://coveralls.io/github/Kuipr/assembly?branch=master)
 
 ## Installation
-- Releases coming soon
-- Install with npm: `npm install assembly-framework`
+- Install with npm: `npm i assembly-framework`
+- [Download .zip](https://github.com/Kuipr/assembly/archive/master.zip)
+- Github releases coming soon
+
+## Documentation
+Docs are available [in the repo](./docs/index.md) or at <https://kuipr.io/assembly>.
 
 ## Contributing
 We are in the process of drafting a style guide and contribution guidelines.  In the meantime, please open [issues](https://github.com/Kuipr/assembly/issues) with your code suggestions and we will help you draft a [pull request](https://github.com/Kuipr/assembly/pulls).
@@ -29,4 +33,4 @@ Design, Code, and Documentation Copyright &copy; 2018<br/>
 By [Kuipr](https://kuipr.com) and the [Authors of Assembly](https://github.com/kuipr/assembly/graphs/contributors).
 
 Code released under [MIT License](https://github.com/Kuipr/assembly/blob/master/LICENSE)<br/>
-Documentation released under [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://github.com/Kuipr/assembly/blob/master/docs/LICENSE).
+[Documentation](./docs/index.md) released under [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://github.com/Kuipr/assembly/blob/master/docs/LICENSE).
