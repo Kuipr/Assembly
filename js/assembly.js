@@ -1,11 +1,8 @@
 'use strict';
 
 /**
- * Adds commas to a number
- * @param {number} number
- * @param {string} locale
- * @return {string}
+ * Sends console.log() message with current status of build.
  */
-module.exports = function(number, locale) {
-    return number.toLocaleString(locale);
+module.exports = function() {
+    console.log("Assembly is a CSS only framework at this time.  This will change prior to the v1.0.0 release but we are getting our styles together first.")
 };
