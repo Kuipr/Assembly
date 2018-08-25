@@ -19,7 +19,7 @@ To initialize the grid, simply create a `<div>` with the attribute `class="row"`
 ```
 
 ## Columns
-Once you've created your `row`, you'll need to create a few columns to finish up the grid.  Columns are made up of two classes: `col` and `w-*` where * is replaced by a number 1-12.  The sum of the `w-*` classes should equal 12 to create a full-width row.  The exception to this is if you have used an [offset](#offset) class.  More on that later.
+Once you've created your `row`, you'll need to create a few columns to finish up the grid.  Columns are made up of two classes: `col` and `w-*` where * is replaced by a number 1-12.  The sum of the `w-*` classes should equal 12 to create a full-width row.  The exception to this is if you have used an [offset](#offsets) class.  More on that later.
 
 For example, a grid with 3 equal columns would be marked up like this:
 ```html
