@@ -1,4 +1,4 @@
-<img src="https://kuipr.com/static/img/projects/Assembly.svg" alt="Assembly Logo" width="470" height="94"/>
+[![Build Status](https://travis-ci.org/Kuipr/Assembly.svg?branch=master)](https://travis-ci.org/Kuipr/Assembly)
 
 A modern front-end development framework for UI-friendly rapid prototyping.
 
