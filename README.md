@@ -1,9 +1,10 @@
-[![Build Status](https://travis-ci.org/Kuipr/Assembly.svg?branch=master)](https://travis-ci.org/Kuipr/Assembly)
+<img src="https://kuipr.com/static/img/projects/Assembly.svg" alt="Assembly Logo" width="470" height="94"/>
+
 
 A modern front-end development framework for UI-friendly rapid prototyping.
 
 #### Status
-[![Build Status](https://travis-ci.org/Kuipr/assembly.svg?branch=master)](https://travis-ci.org/Kuipr/assembly)
+[![Build Status](https://travis-ci.org/Kuipr/Assembly.svg?branch=master)](https://travis-ci.org/Kuipr/Assembly)
 [![Coverage Status](https://coveralls.io/repos/github/Kuipr/assembly/badge.svg?branch=master)](https://coveralls.io/github/Kuipr/assembly?branch=master)
 
 ## Installation
