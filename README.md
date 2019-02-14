@@ -34,7 +34,7 @@ If you encounter any issues please open an [issue](https://github.com/Kuipr/asse
 - <https://twitter.com/realmarkadkins>
 
 ## Copyright and License
-Design, Code, and Documentation Copyright &copy; 2018<br/>
+Design, Code, and Documentation Copyright &copy; 2018-2019<br/>
 By [Kuipr](https://kuipr.com) and the [Authors of Assembly](https://github.com/kuipr/assembly/graphs/contributors).
 
 Code released under [MIT License](https://github.com/Kuipr/assembly/blob/master/LICENSE)<br/>
