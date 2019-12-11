@@ -33,7 +33,7 @@ If you encounter any issues please open an [issue](https://github.com/Kuipr/asse
 - <https://github.com/funkybunch>
 - <https://twitter.com/realmarkadkins>
 
-## Copyright and License
+## Copyright and Licenses
 Design, Code, and Documentation Copyright &copy; 2018-2019<br/>
 By [Kuipr](https://kuipr.com) and the [Authors of Assembly](https://github.com/kuipr/assembly/graphs/contributors).
 
