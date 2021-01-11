@@ -5,7 +5,10 @@
   "main": "dist/js/assembly.js",
   "scripts": {
     "test": "mocha --reporter spec",
-    "cover": "node_modules/istanbul/lib/cli.js cover node_modules/mocha/bin/_mocha -- -R spec test/*"
+    "cover": "node_modules/istanbul/lib/cli.js cover node_modules/mocha/bin/_mocha -- -R spec test/*",
+    "compile": "js-build-*",
+    "js-build-compile": "rollup --environment BUNDLE:true --config build/rollup.config.js --sourcemap",
+    "js-build-bundle": "rollup --environment BUNDLE:true --config build/rollup.config.js --sourcemap"
   },
   "repository": {
     "type": "git",
@@ -28,6 +31,11 @@
     "chai": "^4.1.2",
     "coveralls": "^3.0.2",
     "istanbul": "^0.4.5",
-    "mocha": "^5.2.0"
+    "mocha": "^5.2.0",
+    "rollup": "^0.65.2",
+    "rollup-plugin-json": "^3.0.0"
+  },
+  "dependencies": {
+    "tooltip.js": "^1.3.0"
   }
 }
